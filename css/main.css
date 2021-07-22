@@ -16,6 +16,12 @@ h1 {
     font-family: "Cardo", sans-serif;
     color: #fff;
     font-size: 6.5rem;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
 }
 
 h3 {
